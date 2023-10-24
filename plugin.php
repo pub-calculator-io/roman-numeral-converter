@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_roman_numeral_converter
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Roman Numeral Converter by Calculator.iO";
 
 function display_ci_roman_numeral_converter(){
