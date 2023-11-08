@@ -1,4 +1,4 @@
-=== Roman Numeral Converter by Calculator.iO ===
+# Roman Numeral Converter by Calculator.iO
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
@@ -9,11 +9,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
 
-== Description ==
+## Description
 
 Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
 
-__Shortcode__
+### Shortcode
 
 Use the Roman Numeral Converter shortcode:
 
@@ -27,21 +27,21 @@ Libraries in use:
 5. https://air-datepicker.com/
 6. https://www.chartjs.org/
 
-== Installation ==
+## Installation
 
 1. Upload the /ci_roman_numeral_converter/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Roman Numeral Converter](https://www.calculator.io/roman-numeral-converter/ "Roman Numeral Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+## Usage
 * Add the shortcode `[ci_roman_numeral_converter]` to your page or post and configure default mortgage parameters.
 * If you are using widgets, just add the Roman Numeral Converter to the sidebar through the `Appearance -> Widgets -> Roman Numeral Converter` menu in WordPress.
 * Add the following code: `<?php display_ci_roman_numeral_converter(); ?>` to your template where you would like the Roman Numeral Converter to appear.
 
-== Screenshots ==
+## Screenshots
 1. The Roman Numeral Converter Input Form.
 2. The Roman Numeral Converter Calculation Results.
 
-== Changelog ==
+## Changelog
 
-= 1.0.0 =
+### 1.0.0
 * Initial release
