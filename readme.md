@@ -12,9 +12,8 @@ Roman numeral converter produces Roman numerals from Arabic numbers or converts 
 3. Activate the [Roman Numeral Converter](https://www.calculator.io/roman-numeral-converter/ "Roman Numeral Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_roman_numeral_converter]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Roman Numeral Converter to the sidebar through the `Appearance -> Widgets -> Roman Numeral Converter` menu in WordPress.
-* Add the following code: `<?php display_ci_roman_numeral_converter(); ?>` to your template where you would like the Roman Numeral Converter to appear.
+* Add the shortcode `[ci_roman_numeral_converter]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_roman_numeral_converter(); ?>` to your template where you would like the Roman Numeral Converter to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
