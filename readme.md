@@ -1,47 +1,25 @@
-# Roman Numeral Converter by Calculator.iO
-Contributors: calculatorio
-Tags: 
-Requires at least: 5.0
-Tested up to: 6.4.0
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+# Roman Numeral Converter WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
 
 Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
 
-## Description
-
-Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
-
-### Shortcode
-
-Use the Roman Numeral Converter shortcode:
-
-`[ci_roman_numeral_converter]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+![Roman Numeral Converter Input Form](/assets/images/screenshot-1.png "Roman Numeral Converter Input Form")
+![Roman Numeral Converter Calculation Results](/assets/images/screenshot-2.png "Roman Numeral Converter Calculation Results")
 
 ## Installation
 
-1. Upload the /ci_roman_numeral_converter/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Roman Numeral Converter](https://www.calculator.io/roman-numeral-converter/ "Roman Numeral Converter Homepage") plugin through the "Plugins" menu in WordPress.
+1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+2. Upload the /roman-numeral-converter-master/ folder to the /wp-content/plugins/ directory.
+3. Activate the [Roman Numeral Converter](https://www.calculator.io/roman-numeral-converter/ "Roman Numeral Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
 * Add the shortcode `[ci_roman_numeral_converter]` to your page or post and configure default mortgage parameters.
 * If you are using widgets, just add the Roman Numeral Converter to the sidebar through the `Appearance -> Widgets -> Roman Numeral Converter` menu in WordPress.
 * Add the following code: `<?php display_ci_roman_numeral_converter(); ?>` to your template where you would like the Roman Numeral Converter to appear.
 
-## Screenshots
-1. The Roman Numeral Converter Input Form.
-2. The Roman Numeral Converter Calculation Results.
-
-## Changelog
-
-### 1.0.0
-* Initial release
+## Libraries in Use
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
