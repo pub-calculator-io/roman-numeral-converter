@@ -1,6 +1,6 @@
 === Roman Numeral Converter by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: roman numeral converter, arabic to roman numerals, roman to arabic numbers, large number conversion, roman numeral calculations, roman numeral system, historical roman numerals
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
