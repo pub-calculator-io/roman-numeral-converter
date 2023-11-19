@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Roman Numeral Converter by www.calculator.io
+Plugin Name: CI Roman numeral converter
 Plugin URI: https://www.calculator.io/roman-numeral-converter/
 Description: Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
 Version: 1.0.0

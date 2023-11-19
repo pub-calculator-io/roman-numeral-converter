@@ -1,4 +1,4 @@
-=== Roman Numeral Converter by www.calculator.io ===
+=== CI Roman numeral converter ===
 Contributors: calculatorio
 Tags: roman numeral converter, arabic to roman numerals, roman to arabic numbers, large number conversion, roman numeral calculations, roman numeral system, historical roman numerals
 Requires at least: 5.0
