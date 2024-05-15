@@ -28,7 +28,7 @@
             <div class="calculator-setting" id="calculator_form">
                 <div class="calculator-content col">
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col unit-converter,roman-numeral-date-converter  ">
                 			<p class="input__title">Roman or Integer Value</p>
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="number" value="2894"  />
@@ -70,13 +70,15 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Convert</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Convert</button>
                 </div>
                 
                 
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -91,8 +93,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><style>
 	.overline {
 		text-decoration: overline;
@@ -109,7 +110,7 @@
 			<tbody>
 				<tr>
 					<th>Integer Number</th>
-					<td id="result-int">2,894</td>
+					<td id="result-int" class="animate">2,894</td>
 				</tr>
 				<tr>
 					<th>Roman Numeral</th>

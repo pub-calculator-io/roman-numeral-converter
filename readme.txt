@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Roman Numeral C
 == Screenshots ==
 
 1. The Roman Numeral Converter Input Form.
-2. The Roman Numeral Converter Calculation Results.
 
 == Installation ==
 

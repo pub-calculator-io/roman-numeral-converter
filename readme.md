@@ -3,7 +3,6 @@
 Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
 
 ![Roman Numeral Converter Input Form](/assets/images/screenshot-1.png "Roman Numeral Converter Input Form")
-![Roman Numeral Converter Calculation Results](/assets/images/screenshot-2.png "Roman Numeral Converter Calculation Results")
 
 ## Installation
 
