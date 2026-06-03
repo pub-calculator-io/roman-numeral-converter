@@ -1,6 +1,6 @@
 # Roman Numeral Converter Widget for WordPress
 
-Roman numeral converter produces Roman numerals from Arabic numbers or converts Arabic numbers to Roman numerals, with values between 1 and 3,999,999.
+Easily convert numbers to Roman numerals or vice versa with our free Roman Numeral Converter. Fast and accurate for values up to 3,999,999!
 
 ![Roman Numeral Converter Input Form](/assets/images/screenshot-1.png "Roman Numeral Converter Input Form")
 
@@ -11,8 +11,8 @@ Roman numeral converter produces Roman numerals from Arabic numbers or converts 
 3. Activate the [Roman Numeral Converter](https://www.calculator.io/roman-numeral-converter/ "Roman Numeral Converter Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_roman_numeral_converter]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_roman_numeral_converter(); ?>` to your template where you would like the Roman Numeral Converter to appear.
+* Add the shortcode `[calcio_roman_numeral_converter]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_roman_numeral_converter(); ?>` to your template where you would like the Roman Numeral Converter to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
